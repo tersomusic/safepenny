@@ -1,0 +1,150 @@
+body {
+    background-color: #00455b;
+}
+.__sp-cen-block {
+    position: relative;
+    width: 100%;
+    min-height: 570px;
+    background-image: url("../../img/bg-connect.png");
+    line-height: 25px;
+    color: #FFF;
+    text-align: center;
+    padding: 5% 16%;
+    font-family: "Klavika", serif;
+}
+
+.__sp-cen-block h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+
+.__sp-cen-block h5 {
+    font-size: 18px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+
+.__sp-chevron {
+    position: absolute;
+    bottom: 30px;
+    right: 0;
+    left: 0;
+    margin: auto;
+    z-index: 1;
+}
+
+.__sp-chevron .fa {
+    font-size: 60px;
+    color: #FFF;
+}
+
+.__sp-chief {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 2px;
+    margin: auto;
+    z-index: 1;
+}
+
+.__sp-chief .fa {
+    width: 12px;
+    font-size: 60px;
+    color: #FFF;
+    position: absolute;
+    bottom: 80px;
+}
+
+.__sp-connect {
+    width: 90%;
+    height: 300px;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 87px;
+    right: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.__sp-connect .__sp-gridd.__sp-gridd {
+    width: 32%;
+    height: 199px;
+    border: 3px solid #fff;
+    float: left;
+    margin-left: 1%;
+}
+
+.__sp1 {
+    width:100%;
+    height: 100px;
+    margin: auto;
+    background-size: cover;
+    background: #00455b url("../../img/thumb.jpg") no-repeat center;
+    line-height: 25px;
+    text-align: center;
+    padding: 5% 16%;
+}
+
+.__p2 {
+    width:100%;
+    height: 100px;
+    margin: auto;
+    line-height: 25px;
+    text-align: center;
+    padding: 5% 16%;
+}
+
+.__sp-tray {
+    width:90%;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.__sp-boxsigin {
+    width: 100%;
+    max-width: 400px;
+    height: 400px;
+    margin: 3% auto 0;
+}
+
+form {
+    padding:0 20px 0 20px;
+}
+
+.__b12 {
+    margin-top: 10px;
+    width: 85%;
+    height: 40px;
+    color: #ccc;
+    padding:0 20px 0 20px;
+    background: transparent !important;
+    border-radius: 3px;
+    border:1px solid #eee;
+}
+
+.__b12 {
+    float: left;
+}
+
+span,.__b13 {
+    margin-top: 8px;
+    margin-bottom: 5px;
+    float: left;
+    text-align: left;
+    min-width: 10px;
+    font-size: 12px;
+}
+
+.__sp-seconday {
+    height: 40px;
+    width: 100%;
+    float: left;
+}
+
+#__check_reber {
+    float: left;
+    font-size: 14px;
+    margin-top: 2px;
+}

@@ -1,0 +1,99 @@
+header, article, footer, section, div, ul, li, ol {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 0;
+}
+
+.pure-g > div {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.l-box {
+    padding: 1em;
+}
+
+header.__sp-header {
+    width: 100%;
+    height:100px;
+    background-color:#00455b;
+}
+
+.__sp-container  {
+    width: 100%;
+    max-width:1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+header.__sp-header .__sp-pure {
+    height:100px;
+    box-sizing: border-box;
+    padding: 10px 0;
+    line-height: 100px;
+}
+
+header.__sp-header .__sp-logo {
+    width: 80%;
+}
+
+header.__sp-header .__sp-links {
+    float:right;
+    line-height: 74px;
+}
+
+header.__sp-header .__sp-links a {
+    float:left;
+    font-family: "Klavika", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size:14px;
+    margin: 0 15px;
+    padding-bottom: 12px;
+    transition: all ease-in-out 0.1s;
+}
+
+header.__sp-header .__sp-links a:hover, header.__sp-header .__sp-links a.__sp-active {
+    border-bottom: 3px solid #fff;
+}
+
+
+/**  CSS BUTTONS  ***/
+
+.button-success {
+    background: rgb(28, 184, 65);
+}
+
+button {
+    border-radius: 3px !important;
+    color: #FFF !important;
+}
+
+button.__sp-primary {
+    background: #ffc926;
+    border: 1px solid #cc9900;
+}
+
+button.__sp-trans {
+    background: transparent;
+    border: 1px solid #FFF;
+}
+
+
+#__check_reber {
+    float: left;
+    font-size: 10px;
+    margin-top: 2px;
+}
+
+.__sp-dashboard .__sp-navCon .__sp-leftNav {
+    position: absolute;
+    left: 0;
+    background: #00455b;
+    height: 100%;
+}

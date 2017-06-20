@@ -1,0 +1,306 @@
+body {
+    overflow-y:hidden;
+}
+
+.__sp-header {
+    display:none;
+}
+
+.__sp-dashboard {
+    width:100%;
+    height:100%;
+    position:relative;
+    min-height: 1000px;
+}
+
+.__sp-dashboard .__sp-navCon {
+    width:100%;
+}
+
+.__sp-dashboard .__sp-navCon .__sp-leftNav {
+    position: absolute;
+    left:0;
+    background:#00455b;
+    height:100%;
+}
+
+.__sp-dashboard .__sp-rightNav {
+    position: absolute;
+    right:0;
+    background:#DDD;
+    height:100%;
+    padding: 0 4%;
+}
+
+#__sp-leftNavLinksCon {
+    float:left;
+    margin-top:20px;
+    width:100%;
+}
+
+#__sp-leftNavLinksCon a {
+    float: left;
+    width:100%;
+    box-sizing: border-box;
+    padding: 15px 20px;
+    font-family: "Klavika", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FFF;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+
+#__sp-leftNavLinksCon a:hover {
+    background: #003a4f;
+}
+
+#__sp-leftNavLinksCon a[data-status="active"] {
+    border-left: 5px solid #039c30;
+    padding-left: 15px;
+    background: #00758f;
+}
+
+#__sp-leftNavLinksCon span {
+    padding-left:10px;
+
+}
+
+#__sp-gloActInf-1 {
+    padding: 20px 15px;
+    box-sizing: border-box;
+    min-height: 100px;
+}
+
+.__holdleft {
+    width:100%;
+    height: 100px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    min-height: 100px;
+    padding: 10px 10px;
+}
+
+#__logo-side {
+    padding: 25px 10px ;
+    width:100%;
+    height: 80px;
+    float:left;
+    background: #00455b;
+    border-radius: 3px;
+}
+
+#__side-level{
+    padding: 10px 10px;
+    width: 100%;
+    height: 80px;
+    border: 1px solid #000;
+    float:right;
+}
+
+.pure-u-1-2, .pure-u-12-24 {
+    float: right;
+}
+
+.__acont-s {
+    float: left;
+    width: 100%;
+    height: 40px;
+    border:1px solid #101010;
+    padding:5px 5px;
+}
+
+
+#__img-logo{
+    width:80%;
+}
+
+.__sac{
+    width: 100%;
+    min-height: 40px;
+    border:1px solid #101010;
+    padding: 10px 10px;
+    float: right;
+}
+
+#__dropdown{
+    padding-right: 0;
+    color: red;
+}
+
+#__dropdown {
+    width: 10em;
+    min-height: 10%;
+    color: #2a88bd;
+    background: #ccc;
+    box-shadow:0 1px 3px #ccc;
+    padding:1%;
+}
+
+.l-xamc .l-box-m{
+    width:100%;
+    /* height: 350px; */
+    margin-top: 50px;
+    box-sizing: border-box;
+    /* border: 1px solid #CCC; */
+    height:300px;
+    border: 1px solid #101010;
+}
+
+.l-xamc:nth-child(1) {
+    /* padding-right:5%; */
+}
+
+.l-box {
+    padding: 1em;
+}
+
+.__vboxx {
+    width:100%;
+    height: 400px;
+    background: #ffffff;
+    border-radius: 3px;
+}
+
+.___navside{
+    float:left;
+    width:27%;
+    height:100%;
+}
+
+.___navside a {
+    width: 100%;
+    padding:15px 15px;
+    float: left;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Klavika, serif;
+    text-transform: capitalize;
+    color: #000;
+}
+
+.__navrighh {
+    float: left;
+    width:73%;
+    height:100%;
+}
+
+.pure-form-aligned .pure-control-group label {
+    text-align:left;
+}
+
+
+fieldset #__form{
+    padding:0;
+}
+
+.pure-form-aligned .pure-control-group #__conbox {
+    margin-bottom: 0;
+}
+
+.pure-form fieldset {
+    padding: 0;
+    margin: 15px;
+    font-family: Klavika , serif;
+}
+
+.pure-form input[type=password], .pure-form input[type=email], .pure-form input[type=url], .pure-form input[type=date], .pure-form input[type=month], .pure-form input[type=time], .pure-form input[type=datetime], .pure-form input[type=datetime-local], .pure-form input[type=week], .pure-form input[type=tel], .pure-form input[type=color], .pure-form input[type=number], .pure-form input[type=search], .pure-form input[type=text], .pure-form select, .pure-form textarea {
+    padding : .4em .6em 1em;
+    font-family: Klavika,serif;
+}
+
+
+
+.block-side1.block-ash {
+    background:#EEE;
+}
+
+.__legsl2 {
+    padding: 3%;
+}
+
+.__arss .__text1{
+    text-decoration: none;
+    padding:2%;
+    color:#000;
+    font-family: Klavika, serif;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#nav {
+    width:100%;
+    display:block;
+    background-color:#64abfb;
+    border-bottom:5px solid #2980b9;
+}
+#nav ul {
+    padding:0;
+    margin:0;
+    list-style: none;
+    position: relative;
+}
+#nav ul:After {
+    content: "";
+    display:block;
+    clear:both;
+}
+#nav ul li {
+    display:list-item;
+    list-style: none;
+    float:left;
+    background-color:#64abfb;
+}
+#nav ul li i {
+    font-size:25px;
+    width:30px;
+}
+#nav ul li a {
+    display:block;
+    padding:15px 30px;
+    color:#FFF;
+    font-size:20px;
+    text-decoration:none;
+    font-family: 'Bree Serif', 'serif';
+    text-align:center;
+}
+
+#nav ul ul {
+    display: none;
+    position: absolute; top: 79px;
+}
+/* Display Dropdowns on Hover */
+#nav ul li:hover > ul {
+    display:list-item;
+}
+/* Fisrt Tier Dropdown */
+#nav ul ul li {
+    width:200px;
+    float:none;
+    position: relative;
+    border-bottom:none;
+}
+#nav ul ul li i {
+    margin-right:10px;
+}
+#nav ul ul li a {
+    padding:15px 20px;
+    text-align:left;
+}
+/* Second, Third and more Tiers */
+nav ul ul ul li {
+    position: absolute relative;
+    top:-79px;
+    left:200px;
+}
+
+#nav li > a:after { content: ' »'; }
+#nav > li > a:after {content: ' »'; }
+#nav li > a:only-child:after {content: ''; }
+
+#nav ul .active {
+    color:#FFF;
+}

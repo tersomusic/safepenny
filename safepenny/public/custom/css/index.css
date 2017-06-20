@@ -1,0 +1,384 @@
+.__sp-cen-block {
+    position: relative;
+    width: 100%;
+    background-color: #00455b;
+    background-image: url("../../img/bg-connect.png");
+    line-height: 25px;
+    color: #FFF;
+    text-align: center;
+    padding: 5% 16%;
+    font-family: "Klavika";
+}
+
+.__sp-cen-block h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+
+.__sp-cen-block h5 {
+    font-size: 18px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+
+.__sub{
+    padding: 10px 10px;
+    height:40px;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.__img22 {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+}
+
+.__r{
+    font-size: 30px;
+    font-family: klavika, serif;
+    color: #1ab63f;
+    text-align: center;
+
+}
+
+.__msr {
+    color: #1ab63f;
+    font-weight: 100;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow: hidden;
+    font-family: klavika, serif;
+    text-align:justify;
+
+}
+
+.__msr2 {
+    color: #1ab63f;
+    word-break: break-all;
+    font-weight: 100;
+    word-wrap: break-word;
+    font-family: klavika, serif;
+    text-align: justify;
+}
+
+.__button1 {
+    background: #1ab63f;
+    padding:.5em 1em;
+    border: 1px solid #1ab63f;
+}
+
+.__sp-chevron {
+    position: absolute;
+    bottom: 3px;
+    right: 0;
+    left: 0;
+    margin: auto;
+    z-index: 1;
+}
+
+.__sp-chevron .fa {
+    font-size: 60px;
+    color: #FFF;
+}
+
+.__sp-chief {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 2px;
+    margin: auto;
+    z-index: 1;
+}
+
+.__sp-chief .fa {
+    width: 12px;
+    font-size: 60px;
+    color: #FFF;
+    position: absolute;
+    bottom: 80px;
+}
+
+.__sp-connect {
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.__sp-connect .__sp-gridd.__sp-gridd {
+    width: 32%;
+    height: 400px;
+    float: left;
+    margin-left: 1%;
+}
+
+.__text-highb {
+    width: 90%;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 55px;
+    z-index: 1;
+}
+
+.__buytext{
+    text-align: center;
+    font-family: Klavika;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+h1.__buytext2{
+    text-align: center;
+    font-family: Klavika;
+    margin: auto;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.__sp1 {
+    width:100%;
+    height: 100px;
+    margin: auto;
+    background-color: #00455b;
+    background-image: url("../../img/thumb.jpg");
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    line-height: 25px;
+    text-align: center;
+    padding: 5% 16%;
+}
+
+.__p2 {
+    width:100%;
+    height: 100px;
+    margin: auto;
+}
+
+.__sp-tray {
+    width:90%;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.block_sign_log {
+    width:100%;
+    height: 400px;
+    background:#f7f7f7;
+    min-height: 550px;
+}
+
+.__block2 {
+    width:100%;
+    height: 200px;
+    background:#f7f7f7;
+    min-height: 300px;
+}
+
+.steps{
+    width: 32%;
+    height: 250px;
+    float: left;
+    margin-left: 1%;
+    border-bottom: 1px solid #00455b;
+}
+
+
+
+.__textsteps {
+    text-align: center;
+    font-family: klavika. serif;
+    line-height: 73px;
+}
+
+.__block3 {
+    width:100%;
+    height: 300px;
+    background:#f7f7f7;
+    min-height: 400px;
+}
+
+.__block4 {
+    width:100%;
+    height: 200px;
+    background:#f7f7f7;
+    min-height: 350px;
+}
+
+.__highb{
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 49.8%;
+    height: 450px;
+    display: inline-block;
+    box-shadow: 0px 1px 1px 1px #e0e0e0;
+    float: left;
+}
+
+.__highb:hover{
+    background-color:#ffffff;
+}
+
+.__img_high{
+    width: 50%;
+    height: 190px;
+    margin: 0 auto 20px;
+
+}
+
+.__safetex{
+    font-size: 26px;
+    line-height:36px;
+    margin: 0;
+    font-weight: 900;
+    text-align: center;
+    font-family: Klavika;
+}
+
+._signupquote{
+    font-size: 17px;
+    line-height: 26px;
+    text-align: center;
+    font-family: Klavika;
+    padding: 0;
+    margin:4px auto 24px;
+    max-width: 340px;
+}
+
+button._bt_sp-coli {
+    padding: 15px 30px 15px ;
+    text-shadow: 0 1px 1px;
+    background: #1ab63f;
+    border:1px solid #1ab63f;
+    margin: auto ;
+    display: block;
+}
+
+.wrpa__button {
+    text-align: center;
+}
+
+._bt_sp-coli {
+
+}
+
+.blockfoot{
+    width:100%;
+    height:350px;
+    background: #00455b;
+    background-image: url("../../img/hero_image_vignette.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.roll_hold_list {
+    width:100%;
+    height:200px;
+    margin: 0 auto;
+}
+
+.__ulplus {
+    width:30.44%;
+    height: 200px;
+    color: #000;
+    float: left;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.__ulplus ul , li,{
+    text-decoration: none;
+    text-align:left;
+}
+
+.h6tag {
+    font-family:Klavika, serif;
+    font-size: 14px;
+}
+
+.h6tag, h6 , a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.__vidintro{
+    width: 40%;
+    padding: 0 20px;
+    height: 400px;
+    background: #f7f33a;
+    margin:0 auto;
+}
+
+.__subscribe_eml {
+    margin-top: 10px;
+    width: auto;
+    max-width: 500px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.formButton {
+    color:#2ecc71;
+    font-weight: 500;
+    padding: 1% 18px 3%  5%;
+    margin-right: 60px;
+    text-decoration:none;
+}
+
+.formStyle {
+    padding: 1% 0% 3%  5%;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom: 1px solid #ecf0f1;
+    border-left-style: none;
+    font-size: 1em;
+    font-weight: 100;
+    color: #000;
+}
+
+.formStyle:hover{
+    border: 3px solid #27ae60;
+    background: #FFFFFF;
+    color: #101010;
+}
+
+
+.formButton:hover {
+    background-color: #32dd7b;
+    color:#eee;
+}
+
+.formButton , .__form , h1{
+    font-family: Klavika , serif;
+}
+
+
+.formButton:active {
+    position:relative;
+    top:3px;
+}
+
+form {
+    margin-top: 0;
+}
+
+.h67tag {
+    text-align: left;
+}
+
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: -8px;
+    width: 100%;
+    text-align: center;
+}

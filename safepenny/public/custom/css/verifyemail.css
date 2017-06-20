@@ -1,0 +1,217 @@
+.__sp-cen-1 {
+    position: relative;
+    width: 100%;
+    background-color: #00455b;
+    line-height: 25px;
+    text-align: center;
+    padding: 5% 16%;
+    font-family: "Klavika";
+}
+
+.__sp-search {
+    margin: 0 auto;
+    width:90%;
+    height: 60px;
+    text-align: left;
+    margin-top: -20px;
+    background: #fff;
+}
+
+.__sp-searchfm {
+    text-align: left;
+    border-color: transparent;
+    opacity: 1;
+    background:#fff;
+    box-shadow: 0px 1px 3px #fff;
+}
+
+.__spp-input {
+    width:60%;
+    height: 60px;
+    border-color: transparent;
+}
+
+.sec-hold {
+    width: 100%;
+    max-width: 1200px;
+    border-bottom: 1px solid #fff;
+    margin: auto;
+}
+
+body {
+    background-image: url("../../img/bg-connect.png");
+    background-color: #00455b;
+}
+
+.__sp-box {
+    margin: 4%;
+    float: left;
+    width: 40%;
+    height: 300px;
+    transform: rotate(7deg);
+    border-bottom: 3px solid #fff;
+    background-color: transparent;
+    background-image: url("../../img/tt.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.__sp-box3 {
+    margin-left: 30%;
+    float: left;
+    width: 40%;
+    height: 300px;
+    transform: rotate(-8deg);
+    border: 1px solid #fff;
+    background-color: transparent;
+    background-image: url("../../img/iiy.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button.__sp-signlink {
+    margin-top: 20%;
+    float: right;
+    background: #ffc926;
+    font-family: Klavika;
+}
+
+.__sp-boxsigin {
+    width: 100%;
+    max-width: 400px;
+    height: 400px;
+    margin: 3% auto 0;
+}
+
+
+.__sp-cen-block h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+
+
+h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: 100;
+    text-align: center;
+    color: #fff;
+}
+
+
+.__sp-seconday {
+    margin-top: 10px;
+    height: 40px;
+    width: 100%;
+    float: left;
+}
+
+
+
+form {
+    padding:0 20px 0 20px;
+}
+
+.__b12 {
+    margin-top: 10px;
+    width: 89%;
+    height: 40px;
+    color: #ccc;
+    padding:0 20px 0 20px;
+    background: transparent !important;
+    border-radius: 3px;
+    border:1px solid #eee;
+}
+
+.__b12 {
+    float: left;
+}
+
+span,.__b13 {
+    margin-top: 8px;
+    margin-bottom: 5px;
+    float: left;
+    text-align: left;
+    min-width: 10px;
+    font-size: 12px;
+}
+
+button.__sp-searchh {
+    margin: 7px 7px 0px 0px;
+    float: right;
+    width: 100px;
+    height:50px;
+}
+
+.__details {
+    width: 100%;
+    height: 500px;
+    margin-top: 3%;
+     }
+
+.__spwain {
+    width: 80.5%;
+    height: 499px;
+    margin: 0 auto;
+    font-family: Klavika;
+    padding:2%;
+
+}
+
+.__holdtext {
+    width: 81%;
+    height: 500px;
+    color: #FFF;
+    text-align: center;
+    font-family: "Klavika", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    font-size: x-large;
+    text-align: justify;
+}
+
+.holdtext h5 {
+    font-size: 25px;
+    font-weight: 100;
+    margin-bottom: 30px;
+    line-height: 30px;
+}
+
+.__toph{
+    width: 25%;
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 30px;
+    font-family: Klavika;
+    font-weight: inherit;
+    box-shadow: 10px #000;
+    margin: 0 auto 1%;
+}
+
+
+.__toph:hover{
+    background-color: #1ab63f;
+    text-align: center;
+    font-size: 30px;
+    font-family: Klavika;
+    font-weight: inherit;
+    border: 1px solid #1ab63f;
+    margin: 0 auto 1%;
+}
+
+.__sp-scroll {
+    margin: 0;
+    z-index: 1;
+    position: relative;
+    right: 0;
+    left: 16em;
+    bottom: 0;
+    top: 12%;
+}
+
+.__sp-scroll .fa {
+    font-size: 100px;
+    color: #FFF;
+    margin: 0 auto 1%;
+}
+
